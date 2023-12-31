@@ -14,7 +14,7 @@ export default function RootLayout({
           <ThemeProvider
             attribute="class"
             forcedTheme="dark"
-            storageKey="gamehub-theme"
+            storageKey="twitch-theme"
           >
             {children}
           </ThemeProvider>
